@@ -20,13 +20,22 @@ https://github.com/relesa/demo_day_mlt2/blob/main/Jagung.csv \
 https://github.com/relesa/demo_day_mlt2/blob/main/Padi.csv \
 &nbsp;
 
-head dari Jagung.cvs dan Padi.cvs
+Snippet data dari Jagung.cvs dan Padi.cvs
 ![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/dataset_head.PNG?raw=true)
 &nbsp;
 
-hasil transpose dataset Jagung.cvs dan Padi.cvs
+Hasil Transpose Dataset Jagung.cvs dan Padi.cvs
 ![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/dataset_transpose.PNG)
 &nbsp;
 
-plot dataset Jagung.cvs dan Padi.cvs
+Plot Dataset Jagung.cvs dan Padi.cvs
 ![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/provinsi.PNG)
+&nbsp;
+
+Hasil Training Loss
+![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/training_loss.PNG)
+&nbsp;
+
+Modal Evaluate
+![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/evaluate.PNG)
+&nbsp;

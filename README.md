@@ -21,21 +21,27 @@ https://github.com/relesa/demo_day_mlt2/blob/main/Padi.csv \
 &nbsp;
 
 Snippet data dari Jagung.cvs dan Padi.cvs
-![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/dataset_head.PNG?raw=true)
+
 &nbsp;
 
 Hasil Transpose Dataset Jagung.cvs dan Padi.cvs
-![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/dataset_transpose.PNG)
+![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/dataset_transpose.PNG)\
 &nbsp;
 
-Plot Dataset Jagung.cvs dan Padi.cvs
-![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/provinsi.PNG)
+Plot Dataset Jagung.cvs dan Padi.cvs\
+![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/prov_code.PNG)\
 &nbsp;
 
-Hasil Training Loss
-![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/training_loss.PNG)
+Model RNN\
+![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/rnn.PNG)\
+
+Model LSTM \
+
+
+Hasil Training Loss\
+![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/training_loss.PNG)\
 &nbsp;
 
-Modal Evaluate
-![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/evaluate.PNG)
+Modal Evaluate\
+![alt text](https://github.com/relesa/demo_day_mlt2/blob/Resources/evaluate.PNG)\
 &nbsp;
